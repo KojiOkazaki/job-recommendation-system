@@ -1,0 +1,10 @@
+# requirements.txt
+# このプロジェクトを実行するために必要なライブラリ
+
+tensorflow>=2.16.0
+keras>=3.0.0
+keras-rs>=0.6.0
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.13.0
